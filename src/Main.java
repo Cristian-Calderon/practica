@@ -7,19 +7,20 @@ public class Main {
         damaso();
     }
     private static void levi(){
-        System.out.println("We are the champions! my friend, at the Worldddd..");
+        System.out.println("me gusta la programacion");
     }
 
     private static void sergio(){
-        System.out.println("Súbeme el sueldo");
+        System.out.println("que tal como estas");
     }
 
     private static void cristian(){
-        System.out.println("levi es todo poderoso, pero un poco homosexual x 2");
+        System.out.println("hola ");
 
     }
 
     private static void damaso(){
+        System.out.println("esto es lo mejor!");
 
     }
 
