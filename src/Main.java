@@ -12,10 +12,11 @@ public class Main {
 
     private static void sergio(){
         System.out.println("Súbeme el sueldo");
+        System.out.println("Jefe no le subas el sueldo, dale mas trabajo y menos vacaiones...");
     }
 
     private static void cristian(){
-        System.out.println("Vacio!!!!!!");
+        System.out.println("levi es todo poderoso, pero un poco homosexual");
 
     }
 
