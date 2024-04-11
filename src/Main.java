@@ -11,13 +11,15 @@ public class Main {
     }
 
     private static void sergio(){
-
+        System.out.println("Súbeme el sueldo");
     }
 
     private static void cristian(){
 
     }
 
-    private static void
+    private static void damaso(){
+
+    }
 
 }
