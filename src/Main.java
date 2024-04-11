@@ -8,7 +8,7 @@ public class Main {
     }
     private static void levi(){
         System.out.println("We are the champions! my friend, at the Worldddd..");
-        System.out.println("Si 1 + 1 = 2,. Hallar la densidad del sol en unidades parsec-gamma");
+        System.out.println("Si 1 + 1 = 2,. Hallar la densidad del sol en unidades kg.gamma-parsec cubicos");
     }
 
     private static void sergio(){
