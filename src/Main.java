@@ -1,5 +1,23 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        levi();
+        sergio();
+        cristian();
+        damaso();
     }
+    private static void levi(){
+
+    }
+
+    private static void sergio(){
+
+    }
+
+    private static void cristian(){
+
+    }
+
+    private static void
+
 }
