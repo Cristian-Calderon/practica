@@ -15,7 +15,7 @@ public class Main {
     }
 
     private static void cristian(){
-        System.out.println("levi es todo poderoso, pero un poco homosexual");
+        System.out.println("levi es todo poderoso, pero un poco homosexual x 2");
 
     }
 
