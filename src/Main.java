@@ -8,6 +8,7 @@ public class Main {
     }
     private static void levi(){
         System.out.println("We are the champions! my friend, at the Worldddd..");
+        System.out.println("Nos ganaron en fase de grupso we");
     }
 
     private static void sergio(){
